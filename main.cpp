@@ -12,6 +12,6 @@ int main(int argc, char** argv)
 
   double x = s(1.5);
 
-  std::cout << "spline at " << x << " is" << s(x) << std::endl;
+  std::cout << "spline at " << x << " is " << s(x) << std::endl;
 
 }
